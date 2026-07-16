@@ -1,5 +1,6 @@
 > [!CAUTION]
 >
+> # ⚠️ Unofficial Addons
 >
 > Addons published in this repository are created by members of the Korone community and are **not officially developed or supported by Korone**.
 >
@@ -95,6 +96,14 @@ Your submission must follow all guidelines below.
 
 * The addon must not impersonate official Korone features, staff members or services.
 
+* **Images are required.** You must provide clear screenshots or other relevant images showing the addon in use in all three of the following places:
+
+  * The Pull Request
+  * The addon’s `README.md`
+  * The addon’s Discord forum post
+
+* The images must clearly demonstrate the addon’s interface, features or visible behavior. Placeholder images, unrelated images or screenshots that do not show the addon functioning are not accepted.
+
 Submissions that do not follow these requirements may be rejected or removed at any time.
 
 # README Requirements
@@ -111,8 +120,23 @@ The addon’s `README.md` must include:
 * Any external APIs or third-party services used
 * Any applicable warnings or disclaimers
 * Known limitations or compatibility requirements
+* Clear screenshots or other relevant images showing the addon in use
 
 The README must provide enough information for users and reviewers to understand the addon before installing it.
+
+# Pull Request Requirements
+
+The Pull Request must include:
+
+* The addon’s name
+* The submitter’s Discord User ID
+* The submitter’s Korone profile URL
+* A detailed description of the addon
+* Any relevant disclaimers
+* Clear screenshots or other relevant images showing the addon in use
+* Confirmation that all repository rules and submission requirements have been followed
+
+Pull Requests without the required images may be rejected without review.
 
 # Review Process
 
@@ -136,7 +160,7 @@ The forum post must include:
 * A clear explanation of what the addon does
 * An explanation of how the addon works
 * Installation and usage instructions
-* Relevant screenshots or demonstrations, when applicable
+* Clear screenshots or other relevant images showing the addon in use
 * Any external APIs or third-party services used
 * Any permissions required by the userscript
 * Any warnings, limitations or disclaimers users should know about
